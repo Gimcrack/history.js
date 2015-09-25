@@ -1,5 +1,5 @@
 {
-    "name": "ingenious/historyjs",
+    "name": "ingenious/history.js",
     "description": "Composer Fork of browserstate/history.js",
     "type": "component",
     "license": "MIT",
