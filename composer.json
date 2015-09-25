@@ -1,0 +1,14 @@
+{
+    "name": "ingenious/historyjs",
+    "description": "Composer Fork of browserstate/history.js",
+    "type": "component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "B Lupton",
+            "email": "email@balupton.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
